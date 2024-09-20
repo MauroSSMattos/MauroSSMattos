@@ -25,10 +25,9 @@ Linguagens de Programação:
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Csharp_logo.svg)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-  ![C Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/C_Programming_Language.svg)
-
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ## Frameworks e Bibliotecas: 
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
