@@ -50,7 +50,11 @@ Linguagens de Programação:
 
 - Projeto Software
 
-https://github.com/user-attachments/assets/e8ca0afa-10b5-46bb-9c0e-360d1c17e7af
+
+https://github.com/user-attachments/assets/6cadcb5f-f6ea-4849-8e93-12776f1c95e3
+
+
+
 
 
 
