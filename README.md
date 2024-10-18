@@ -3,12 +3,15 @@
 
 ## Sobre Mim
 
-Sou Estudante de Analise e desenvolvimento de Sistemas . Atualmente, trabalho Estou fazendo estágio em Desenvolvimento WEB. Sou apaixonado por Desenvolvimento Web e Engenharia de software.
+Sou formado na Faculdade em Gestão de Recursos Humanos, Analise e Desenvolvimento de Sistemas e estou estudando Bacharel em Engenharia de Software. 
+Sou formado em Técnico em Administração, Logística, Recurusos Humanos, Informática para Internet e Desenvolvimento de Sistemas. 
+Atualmente, Estou fazendo estágio em Desenvolvimento WEB. 
+Sou apaixonado por Desenvolvimento Web e Engenharia de software.
 
 - 📍 Localização: Viamão - Brasil
 - 🌱 Atualmente estou familiarizado com várias linguagens.
-- 📫 Como me encontrar: 
-
+- 📫 Como me encontrar:
+ 
 ## Linguagens usada em projetos!
 
 Linguagens de Programação: 
