@@ -35,6 +35,9 @@ Linguagens de Programação:
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white.
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+
 ### Ferramentas e Plataformas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git.
 
