@@ -42,7 +42,7 @@ Linguagens de Programação:
 
 https://github.com/user-attachments/assets/6cadcb5f-f6ea-4849-8e93-12776f1c95e3
 
-file:///C:/Users/Administrador/Videos/Captures/CADASTRO.mp4
+
 
 
 
