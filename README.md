@@ -4,7 +4,7 @@
 ## Sobre Mim
 
 Sou formado na Faculdade em Gestão de Recursos Humanos, Analise e Desenvolvimento de Sistemas e estou estudando Bacharel em Engenharia de Software. 
-Sou formado em Técnico em Administração, Logística, Recurusos Humanos, Informática para Internet e Desenvolvimento de Sistemas. 
+Sou formado em Técnico em Administração, Logística, Recursos Humanos, Informática para Internet e Desenvolvimento de Sistemas. 
 Atualmente, Estou fazendo estágio em Desenvolvimento WEB. 
 Sou apaixonado por Desenvolvimento Web e Engenharia de software.
 
